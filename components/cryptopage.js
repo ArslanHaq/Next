@@ -99,7 +99,7 @@ const cryptopage = () => {
                 <p className='font-poppins font-[400] text-[16px] text-new max-w-[246px] '>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero</p>
 
               </div>
-              <div>
+              <div className='md:block xs:hidden'>
                 <Image  src="/lines.svg" alt='none' width={50} height={50} />
               
               </div>
@@ -117,7 +117,7 @@ const cryptopage = () => {
                 
 
               </div>
-              <div>
+              <div className=' md:block xs:hidden'>
                 <Image  src="/lines.svg" alt='none' width={50} height={50} />
               
               </div>
@@ -133,7 +133,7 @@ const cryptopage = () => {
               </div>
 
               </div>
-              <div>
+              <div className=' md:block xs:hidden'>
                 <Image  src="/lines.svg" alt='none' width={50} height={50} />
               
               </div>
